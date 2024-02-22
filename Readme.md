@@ -4,8 +4,6 @@ mypackage is a Python library for sorting n items.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 pip install mypackage
 ```
@@ -25,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT]
+MIT
